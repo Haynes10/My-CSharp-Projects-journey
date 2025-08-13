@@ -6,6 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: AssemblyTitle("ConsoleAppAssignment")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
@@ -18,6 +19,13 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("IncomeComparison")]
 >>>>>>> 7ee8189530ce470f6a09087ea03ae30584ad6434
+=======
+[assembly: AssemblyTitle("StringAssignment")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("StringAssignment")]
+>>>>>>> b3b1623 (Add string assignment)
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -29,10 +37,14 @@ using System.Runtime.InteropServices;
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
 <<<<<<< HEAD
+<<<<<<< HEAD
 [assembly: Guid("90f8ab44-4d2b-4c41-b171-5d00e785da1e")]
 =======
 [assembly: Guid("87faf07a-9a44-408f-850f-c42e48f29e85")]
 >>>>>>> 7ee8189530ce470f6a09087ea03ae30584ad6434
+=======
+[assembly: Guid("d9bc6bde-31cc-4b3c-9dce-a9e2f2959bfc")]
+>>>>>>> b3b1623 (Add string assignment)
 
 // Version information for an assembly consists of the following four values:
 //

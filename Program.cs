@@ -1,47 +1,39 @@
-﻿using System;
+﻿using System;                 // Allows us to use basic C# functions like Console.WriteLine
+using System.Text;            // Needed for using StringBuilder
 
-namespace ConsoleAppAssignment
+namespace StringAssignment
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // ----- WHILE LOOP -----
+            // --- 1. Concatenate three strings ---
+            string part1 = "Hello";                  // First part of the string
+            string part2 = "beautiful";              // Second part of the string
+            string part3 = "world!";                  // Third part of the string
 
-            // Use this variable to control our while loop
-            int whileCounter = 1;
+            // Combine them into one full sentence
+            string fullSentence = part1 + " " + part2 + " " + part3;
+            Console.WriteLine("Concatenated String: " + fullSentence);
 
-            // This while loop runs while whileCounter is less than or equal to 5
-            Console.WriteLine("WHILE LOOP: Counting from 1 to 5...");
-            while (whileCounter <= 5)
-            {
-                Console.WriteLine("Current number: " + whileCounter);
+            // --- 2. Convert a string to uppercase ---
+            string upperSentence = fullSentence.ToUpper(); // Converts all letters to uppercase
+            Console.WriteLine("Uppercase String: " + upperSentence);
 
-                // Add 1 to whileCounter every time the loop runs
-                whileCounter++;
-            }
+            // --- 3. Create a StringBuilder and build a paragraph ---
+            StringBuilder paragraph = new StringBuilder(); // Creates an empty StringBuilder
 
+            // Append sentences one at a time
+            paragraph.Append("This is the first sentence. ");
+            paragraph.Append("Here comes the second sentence. ");
+            paragraph.Append("Finally, this is the last sentence in our paragraph.");
 
-            // ----- DO WHILE LOOP -----
+            // Output the paragraph
+            Console.WriteLine("Paragraph using StringBuilder:");
+            Console.WriteLine(paragraph.ToString());
 
-            // Use this variable for our do while loop
-            int doCounter = 6;
-
-            // This do-while loop runs at least once, even if the condition is false
-            Console.WriteLine("\nDO WHILE LOOP: Showing it runs at least once...");
-
-            do
-            {
-                Console.WriteLine("This will print even though doCounter > 5. Current: " + doCounter);
-
-                // Increment the counter
-                doCounter++;
-            }
-            while (doCounter <= 5); // This is false right away, so loop ends after 1 run
-
-            // Keeps the console window open so we can read the output
-            Console.WriteLine("\nPress any key to exit.");
-            Console.ReadKey();
+            // Keep console open until user presses Enter
+            Console.ReadLine();
         }
     }
 }
