@@ -5,7 +5,7 @@ class Program
 {
     static void Main()
     {
-      
+
         // Create an array of strings
         string[] stringArray = { "Apple", "Banana", "Cherry", "Date", "Elderberry" };
 
@@ -28,7 +28,7 @@ class Program
         Console.WriteLine(); // Add a blank line for readability
 
 
-        
+ 
         // Create an array of integers
         int[] intArray = { 10, 20, 30, 40, 50 };
 
@@ -45,6 +45,7 @@ class Program
         }
 
         Console.WriteLine();
+
 
 
         // Create a list of strings
