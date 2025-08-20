@@ -1,13 +1,14 @@
-﻿using System;
+﻿// Assignment Parts 1–6
+// Console App that demonstrates arrays, loops, lists, user input, and duplicate checking
+// Author: [Your Name]
+
+using System;
 using System.Collections.Generic;
 
 class Program
 {
     static void Main()
     {
-        // Console App that demonstrates arrays, loops, lists, user input, and duplicate checking
-
-
         // ------------------- Part 1 -------------------
         // One-dimensional array of strings representing snacks
         string[] snacks = { "Pizza", "Burgers", "Tacos", "Fries" };
