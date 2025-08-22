@@ -31,12 +31,12 @@ namespace ParameterAssignment
             {
                 int number2 = Convert.ToInt32(input2); //Convert second number
                 result = calc.AddNumbers(number1, number2); //Call method with both numbers
-            }
+    }
             else
             {
                 //If user skipped, just call method with one number (second defaults to 7)
                 result = calc.AddNumbers(number1);
-            }
+}
 
             //Show the result
             Console.WriteLine("The Result is; " + result);
