@@ -1,0 +1,7 @@
+C:\Users\caron\Source\Repos\Method & Objects\Method & Objects\obj\Debug\Method & Objects.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\Method & Objects\Method & Objects\obj\Debug\Method & Objects.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\Method & Objects\Method & Objects\bin\Debug\Method & Objects.exe.config
+C:\Users\caron\Source\Repos\Method & Objects\Method & Objects\bin\Debug\Method & Objects.exe
+C:\Users\caron\Source\Repos\Method & Objects\Method & Objects\bin\Debug\Method & Objects.pdb
+C:\Users\caron\Source\Repos\Method & Objects\Method & Objects\obj\Debug\Method & Objects.exe
+C:\Users\caron\Source\Repos\Method & Objects\Method & Objects\obj\Debug\Method & Objects.pdb
