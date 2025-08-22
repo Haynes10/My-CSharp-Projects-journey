@@ -26,6 +26,7 @@ namespace ClassMethodApp
             MathMethods.Calculate(5, 10, out sum, out product);
             Console.WriteLine($"Using output parameters: Sum = {sum}, Product = {product}");
 
+            //Pause so the console stays open
             Console.ReadLine();
         }
     }
