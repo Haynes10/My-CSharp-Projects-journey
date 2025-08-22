@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace MainMethodsAssignment
 {
+    // This class has three methods that do different math operations
     public class MathOperations
     {
         //First Method: Takes in an integer, adds 12 to it, and returns the result
@@ -31,3 +32,5 @@ namespace MainMethodsAssignment
         }
     }
 }
+
+

@@ -1,0 +1,2 @@
+C:\Users\caron\Source\Repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\ConsoleAppAssignment\ConsoleAppAssignment\obj\Debug\ConsoleAppAssignment.csproj.CoreCompileInputs.cache

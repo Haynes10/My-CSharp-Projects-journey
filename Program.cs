@@ -27,6 +27,11 @@ namespace MainMethodsAssignment
 
             //Keep the console open until a key is pressed
             Console.WriteLine("\nPress any key to exit...");
+            Console.ReadKey();
         }
     }
 }
+
+
+
+
