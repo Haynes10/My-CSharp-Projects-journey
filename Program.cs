@@ -18,6 +18,12 @@ namespace AbstractClass
             employee2.LastName = "Bryant";
             employee2.SayName();
 
+            //polymorphism: we can treat "employee" as IQuittable type since its implements that interface
+            IQuittable quittableEmployee2 = employee2;
+
+            //Call Quit() using the interface version
+            quittableEmployee2.Quit();
+
             Console.ReadLine(); //Make the conosle not close right away
 
         }

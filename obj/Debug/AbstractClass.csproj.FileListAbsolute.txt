@@ -5,3 +5,4 @@ C:\Users\caron\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.
 C:\Users\caron\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\caron\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
 C:\Users\caron\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\caron\Source\Repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe.config
