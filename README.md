@@ -1,42 +1,50 @@
 My C# Projects Journey 🚀
 
-Welcome to my C# console application project collection! This repository contains a series of beginner-friendly projects I built as part of my journey into learning C#. Each project focuses on mastering fundamental concepts like variables, arrays, loops, user input, lists, comparison operators, and boolean logic.
+Welcome to my C# console application project collection!
+This repository is a showcase of beginner-friendly projects I’ve built while learning C#. Each project focuses on a different fundamental concept, from math operations to object-oriented programming.
 
 📁 Projects Included
-
-Console Math Operations
+1. Console Math Operations
 
 Takes user input and performs multiplication, addition, division, comparison, and modulus operations.
 
 Demonstrates basic data types and arithmetic in C#.
 
-Income Comparison Program
+2. Income Comparison Program
 
 Asks for hourly rates and hours worked for two people.
 
 Calculates and compares their annual salaries using basic math and boolean expressions.
 
-Car Insurance Approval
+3. Car Insurance Approval
 
-Collects the user's age, DUI history, and speeding ticket count.
+Collects the user’s age, DUI history, and speeding ticket count.
 
 Uses conditional logic to determine if they qualify for car insurance.
 
-Console App Assignment: Parts 1–6 ✅
+4. Console App Assignment: Parts 1–6 ✅
 
-A single console app demonstrating:
+Arrays and appending user input to array elements.
 
-Arrays and appending user input to array elements
+Loops, including < and <= operators, and infinite loop fixes.
 
-Loops, including < and <= operators, and infinite loop fixes
+Lists with unique and duplicate items.
 
-Lists with unique and duplicate items
+Searching lists for user input and displaying matching indices.
 
-Searching lists for user input and displaying matching indices
+Detecting duplicates using a HashSet and foreach loops.
 
-Detecting duplicates using a HashSet and foreach loops
+Fully commented and beginner-friendly.
 
-Fully commented and beginner-friendly, showing step-by-step learning progress
+5. Person & Employee Inheritance Project
+
+Person class with FirstName, LastName, and a method SayName().
+
+Employee class inherits from Person and adds an Id property.
+
+Demonstrates inheritance and method calls from the superclass.
+
+Example: An Employee object prints out the full name using SayName().
 
 🛠️ Technologies Used
 
@@ -48,19 +56,26 @@ Version Control: Git & GitHub
 
 💡 What I’m Learning
 
-Writing readable, well-commented code
+Writing readable, well-commented code.
 
-Using arrays, lists, loops, and conditional logic effectively
+Using arrays, lists, loops, and conditional logic effectively.
 
-Solving programming problems in a step-by-step approach
+Understanding inheritance and object-oriented programming.
 
-Using Git and GitHub for version control
+Solving programming problems step by step.
 
-Building confidence in debugging and structuring projects
+Using Git and GitHub for version control.
+
+Building confidence in debugging and structuring projects.
 
 📌 How to Run
 
-Open any .cs file in Visual Studio and run the project in Console mode. Follow the prompts in the terminal for interactive exercises.
+Clone the repository.
 
-Thanks for checking out my code! Stay tuned for more projects as I continue learning and improving my C# skills.
+Open any .cs file in Visual Studio.
 
+Run the project in Console mode.
+
+Follow the prompts in the terminal for interactive exercises.
+
+🙌 Thanks for checking out my code! More projects are coming soon as I continue my C# learning journey.
