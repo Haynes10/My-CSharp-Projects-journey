@@ -10,10 +10,10 @@ namespace VoidMethodAssignment
     {
         //This is a void method, meaning it does not return anything
         //It accepts two integers as parameters
-        //It performs a maht operation on the first ineteger and displays the second integer to the Console
+        //It performs a math operation on the first ineteger and displays the second integer to the Console
         public void PerformOperation(int number1, int number2)
         {
-            //Mulitply the first number by 4, just as an example math operation
+            //Multiply the first number by 4, just as an example math operation
             int result = number1 * 4;
 
             //Display the result of the math operation
