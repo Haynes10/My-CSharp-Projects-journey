@@ -1,0 +1,7 @@
+C:\Users\caron\Source\Repos\ClassMethodApp\ClassMethodApp\bin\Debug\ClassMethodApp.exe.config
+C:\Users\caron\Source\Repos\ClassMethodApp\ClassMethodApp\bin\Debug\ClassMethodApp.exe
+C:\Users\caron\Source\Repos\ClassMethodApp\ClassMethodApp\bin\Debug\ClassMethodApp.pdb
+C:\Users\caron\Source\Repos\ClassMethodApp\ClassMethodApp\obj\Debug\ClassMethodApp.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\ClassMethodApp\ClassMethodApp\obj\Debug\ClassMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\ClassMethodApp\ClassMethodApp\obj\Debug\ClassMethodApp.exe
+C:\Users\caron\Source\Repos\ClassMethodApp\ClassMethodApp\obj\Debug\ClassMethodApp.pdb
