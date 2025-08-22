@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace VoidMethodAssignment
 {
-    class Program
-    {
+class Program
+{
         static void Main(string[] args)
-        {
+    {
             //Write a welcome messsage to make the console app look more complete
             Console.WriteLine("=== Welcome to the Void Method Assignment Demo ===\n");
 

@@ -5,3 +5,4 @@ C:\Users\caron\Source\Repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\
 C:\Users\caron\Source\Repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.csproj.CoreCompileInputs.cache
 C:\Users\caron\Source\Repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.exe
 C:\Users\caron\Source\Repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.pdb
+C:\Users\caron\Source\Repos\VoidMethodAssignment\VoidMethodAssignment\obj\Debug\VoidMethodAssignment.exe.config
