@@ -5,11 +5,27 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
+<<<<<<< HEAD
 [assembly: AssemblyTitle("OperatorOverload")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("OperatorOverload")]
+=======
+<<<<<<< HEAD
+[assembly: AssemblyTitle("VoidMethodAssignment")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("VoidMethodAssignment")]
+=======
+[assembly: AssemblyTitle("Shipping Program")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("Shipping Program")]
+>>>>>>> 614b25d599e3ba33bcaec486aa47057fb97743e0
+>>>>>>> dcb5a00d9a2dd5e49a7f79ce559aec425dcfee4a
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +36,15 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
+<<<<<<< HEAD
 [assembly: Guid("b42437ef-8670-41e1-a66f-13f79b823bb0")]
+=======
+<<<<<<< HEAD
+[assembly: Guid("80070eab-9b9a-4423-a8c1-f8dfdc3f4adb")]
+=======
+[assembly: Guid("d1edc8bb-29e4-45d4-bef1-46e6e40a1ce6")]
+>>>>>>> 614b25d599e3ba33bcaec486aa47057fb97743e0
+>>>>>>> dcb5a00d9a2dd5e49a7f79ce559aec425dcfee4a
 
 // Version information for an assembly consists of the following four values:
 //

@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace OperatorOverload
 {
-    class Program
-    {
+class Program
+{
         static void Main(string[] args)
-        {
+    {
             // Create first employee and assign details
             Employee left = new Employee();
             left.Id = 101;
