@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace StructAssignment
 {
 
+    using System;
+
     namespace StructAssignment
     {
         class Program
@@ -26,7 +28,7 @@ namespace StructAssignment
 
                 // Assign a value to the Amount property
                 // I'm just using a random example amount, but this could be any decimal number
-                myNumber.Amount = 432.10m;
+                myNumber.Amount = 123.45m;
 
                 // Print the value of Amount to the console
                 Console.WriteLine($"The amount stored in myNumber is: {myNumber.Amount}");

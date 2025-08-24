@@ -1,0 +1,7 @@
+C:\Users\caron\Source\Repos\ParameterAssignment\ParameterAssignment\bin\Debug\ParameterAssignment.exe.config
+C:\Users\caron\Source\Repos\ParameterAssignment\ParameterAssignment\bin\Debug\ParameterAssignment.exe
+C:\Users\caron\Source\Repos\ParameterAssignment\ParameterAssignment\bin\Debug\ParameterAssignment.pdb
+C:\Users\caron\Source\Repos\ParameterAssignment\ParameterAssignment\obj\Debug\ParameterAssignment.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\ParameterAssignment\ParameterAssignment\obj\Debug\ParameterAssignment.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\ParameterAssignment\ParameterAssignment\obj\Debug\ParameterAssignment.exe
+C:\Users\caron\Source\Repos\ParameterAssignment\ParameterAssignment\obj\Debug\ParameterAssignment.pdb
