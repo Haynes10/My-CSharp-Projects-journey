@@ -29,10 +29,10 @@ namespace LambdaExpressionAssignment
             //Using foreach loop to find all "Rebecca"s
             List<Employee> rebeccasForeach = new List<Employee>();
             foreach (Employee emp in employees)
-            {
+    {
                 //Check if the employee's first name is "Rebecca"
                 if (emp.FirstName == "Rebecca")
-                {
+        {
                     rebeccasForeach.Add(emp);
                 }
             }
@@ -65,3 +65,4 @@ namespace LambdaExpressionAssignment
         }
     }
 }
+
