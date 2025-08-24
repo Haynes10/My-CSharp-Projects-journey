@@ -1,0 +1,8 @@
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
+C:\Users\caron\Source\Repos\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe.config
