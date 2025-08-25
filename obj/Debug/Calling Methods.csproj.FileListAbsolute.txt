@@ -1,0 +1,2 @@
+C:\Users\caron\Source\Repos\Calling Methods\Calling Methods\obj\Debug\Calling Methods.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\Calling Methods\Calling Methods\obj\Debug\Calling Methods.csproj.CoreCompileInputs.cache
