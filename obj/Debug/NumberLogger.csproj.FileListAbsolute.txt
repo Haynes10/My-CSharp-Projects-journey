@@ -1,0 +1,8 @@
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\bin\Debug\NumberLogger.exe.config
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\bin\Debug\NumberLogger.exe
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\bin\Debug\NumberLogger.pdb
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.exe
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.pdb
+C:\Users\caron\Source\Repos\NumberLogger\NumberLogger\obj\Debug\NumberLogger.exe.config

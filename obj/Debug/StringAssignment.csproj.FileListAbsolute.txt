@@ -1,0 +1,8 @@
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe.config
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.exe
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\bin\Debug\StringAssignment.pdb
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.pdb
+C:\Users\caron\Source\Repos\StringAssignment\StringAssignment\obj\Debug\StringAssignment.exe.config

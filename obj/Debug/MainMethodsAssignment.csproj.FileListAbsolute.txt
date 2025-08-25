@@ -1,0 +1,7 @@
+C:\Users\caron\Source\Repos\MainMethodsAssignment\MainMethodsAssignment\bin\Debug\MainMethodsAssignment.exe.config
+C:\Users\caron\Source\Repos\MainMethodsAssignment\MainMethodsAssignment\bin\Debug\MainMethodsAssignment.exe
+C:\Users\caron\Source\Repos\MainMethodsAssignment\MainMethodsAssignment\bin\Debug\MainMethodsAssignment.pdb
+C:\Users\caron\Source\Repos\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.exe
+C:\Users\caron\Source\Repos\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.pdb
