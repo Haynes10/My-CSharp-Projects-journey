@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace StudentApp
 {
-    class Program
-    {
+class Program
+{
         static void Main(string[] args)
-        {
+    {
             using (var context = new SchoolContext())
             {
                 // Create a new student

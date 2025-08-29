@@ -1,0 +1,7 @@
+C:\Users\caron\Source\Repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+C:\Users\caron\Source\Repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+C:\Users\caron\Source\Repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+C:\Users\caron\Source\Repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+C:\Users\caron\Source\Repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb
