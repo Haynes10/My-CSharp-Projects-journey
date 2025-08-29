@@ -46,11 +46,29 @@ Demonstrates inheritance and method calls from the superclass.
 
 Example: An Employee object prints out the full name using SayName().
 
+6. StudentApp (Entity Framework + Database) 🗄️
+
+Defines a Student class with properties: StudentId, FirstName, LastName, and EnrollmentDate.
+
+Uses Entity Framework Core to create a database (SchoolDB.mdf).
+
+Demonstrates:
+
+Code-first migrations
+
+Creating and seeding a database
+
+Querying and saving data with EF Core
+
+This project is my first introduction to databases and ORM (Object Relational Mapping) in C#.
+
 🛠️ Technologies Used
 
 Language: C#
 
 IDE: Visual Studio 2022
+
+Database: SQL Server LocalDB (for EF Core project)
 
 Version Control: Git & GitHub
 
@@ -61,6 +79,8 @@ Writing readable, well-commented code.
 Using arrays, lists, loops, and conditional logic effectively.
 
 Understanding inheritance and object-oriented programming.
+
+Basics of Entity Framework Core and relational databases.
 
 Solving programming problems step by step.
 
