@@ -1,0 +1,13 @@
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\bin\Debug\EntityFramework.dll
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\bin\Debug\EntityFramework.xml
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.AssemblyReference.cache
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.Up2Date
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\Users\caron\Source\Repos\StudentApp\StudentApp\obj\Debug\StudentApp.exe.config
